@@ -4,7 +4,7 @@ import com.thinksky.observer.BinaryObserver;
 import com.thinksky.observer.OctalObserver;
 import com.thinksky.observer.Subject;
 
-public class Application {
+public class App {
 
 	public static void main(String[] args) {
 
