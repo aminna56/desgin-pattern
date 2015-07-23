@@ -54,7 +54,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.thinksky.observer.Application</mainClass>
+                            <mainClass>com.thinksky.Application</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

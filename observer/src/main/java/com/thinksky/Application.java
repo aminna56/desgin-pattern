@@ -1,4 +1,8 @@
-package com.thinksky.observer;
+package com.thinksky;
+
+import com.thinksky.observer.BinaryObserver;
+import com.thinksky.observer.OctalObserver;
+import com.thinksky.observer.Subject;
 
 public class Application {
 
